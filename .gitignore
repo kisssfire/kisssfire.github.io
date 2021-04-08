@@ -1,0 +1,23 @@
+# Created by .ignore support plugin (hsz.mobi)
+*/target
+.idea
+*.iml
+*/*.iml
+*/*/*.iml
+*.ipr
+*.iws
+/out/
+.idea_modules/
+*.class
+*.log
+.DS_Store
+/classes
+
+node_modules/
+
+temp/
+.flattened-pom.xml
+*.flattened-pom.xml
+*/*.flattened.xml
+*/*/*.flattened.xml
+
